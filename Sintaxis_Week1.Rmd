@@ -22,7 +22,7 @@ Cargando paquets nec
 
 Estableciendo rutas de los archivos a importar.
 ```{r}
-maindir <- "D:/Ciclo V/Econometría/Semana 2" 
+maindir <- "D:/Ciclo V/Semana 1" 
 subdir.empleo  <- paste0("/Datos/687-Modulo05/Enaho01a-2019-500.sav")
 subdir.sumaria  <- paste0("/Datos/687-Modulo34/Sumaria-2019.sav")
 #--------------------------------------------*
